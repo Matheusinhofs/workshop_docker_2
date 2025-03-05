@@ -1,0 +1,7 @@
+- Docker compose:
+    - No Docker compose ele traz mais de 1 container que deve ser administrado
+
+- Normalmente é melhor usar imagens que são mais utilizadas, porque geralmente da menos erros
+    - E os erros vem normalmente de redes, portas e etc
+
+- Foi "baixado" o airflow através da imagem do docker
